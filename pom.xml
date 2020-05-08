@@ -6,5 +6,11 @@
     <groupId>beet.testing</groupId>
     <artifactId>aop-project</artifactId>
     <version>1.0-SNAPSHOT</version>
-    
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
+            <version>2.1.7.RELEASE</version>
+        </dependency>
+    </dependencies>
 </project>
